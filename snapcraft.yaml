@@ -93,6 +93,16 @@ slots:
   pi-bluetooth:
     interface: serial-port
     path: /dev/ttyAMA0
+  aeon-z-wave-g5:
+    interface: serial-port
+    path: /dev/serial-port-zwave
+    usb-vendor: 0x0658
+    usb-product: 0x0200
+  kaifa:
+    interface: serial-port
+    usb-vendor: 0x0403
+    usb-product: 0x6001
+    path: /dev/serial-port-kaifa
 
 grade: stable
 parts:
