@@ -1,6 +1,6 @@
-name: pi3
+name: pi3-openhab
 version: 16.04-0.5
-summary: Raspberry Pi 3 support package
+summary: Raspberry Pi 3 support package for openHAB
 description: |
  Support files for booting Raspberry Pi
 type: gadget
@@ -181,3 +181,13 @@ slots:
   spidev0.1:
      interface: spi
      path: /dev/spidev0.1
+  aeon-z-wave-g5:
+    interface: serial-port
+    path: /dev/serial-port-zwave
+    usb-vendor: 0x0658
+    usb-product: 0x0200
+  kaifa:
+    interface: serial-port
+    usb-vendor: 0x0403
+    usb-product: 0x6001
+    path: /dev/serial-port-kaifa
