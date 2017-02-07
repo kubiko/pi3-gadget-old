@@ -57,3 +57,6 @@ core_freq=250
 enable_uart=1
 
 dtoverlay=vc4-kms-v3d
+
+# neuron-spi dtb overlay
+dtoverlay=neuron-spi
