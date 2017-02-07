@@ -1,0 +1,21 @@
+type: model
+authority-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+series: 16
+brand-id: Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI
+model: pi3-unipi
+architecture: armhf
+gadget: pi3-unipi
+kernel: pi2-kernel
+timestamp: 2017-02-07T15:53:39+00:00
+sign-key-sha3-384: m4ldQeZ-SDIbvYTHIsug9YIwNbjQvOQSH90sWEj66tSIuZpfl1bLFQuHdIiv5IsI
+
+AcLBXAQAAQoABgUCWJnumgAKCRBVi+C7v4VPvdpqEACgAlU0JaSzZjmBpUc41JsBzlzqOUgRyv/L
+rXjEjRxN+V/1++zJO6VB8wVISVU6YCHZLR6dYlTGsd1pWUkLS03F2evGjhvOAnzstnYGPZvfdPJj
+rQxb+m0UFoCka23I21OyUktUlyveYULMMjkgooXrwFlmVBs02qnrQTER4YLZrFBfuYRcRzy94jyr
+QYLhrSN/pB5xydZxA/eF+cr36oVnuh+euZBiyHm0HMizEmaaPO8vFdsdzAsyBatrBUnnKzLz8ck0
+rp/UxZGC+bwChDmJPlOga7iWEoC8b5ywZEW9ZBHJ1qVhNJo7NV3u+kR/mS+SEvm1sPMp51kkaSdk
+zr2skvdMi/AfKc2GR4CJh7Fk2Eror3eHwZBEX3LnBP0RgV6bdGhmFmXs7nSajRmeaahliE+YLTRu
+j/R+ghNOYLMGGOIiYig7WnhY40uv3EzOcsr1rxNRYn166LQDljq9ZB76vASvTpY0tqaWXUXBDuyN
+SCWch5GcBbISyCU+MWEBbj8cqrJRGJVhNJxv0VwalCRQ7WbQfuUahVpxwUeFsooHwFoODHDqYHQs
+wVeVQfpGRRdAeOM0UGVzJb/6AePIETpHqp5cYL7e7jQn9vqTy0xtocG/F+TaRy+WLiFCg+e2gYKi
+L959AxN0MVbfjctIlnZ0i8SAH95CaPEFA6q4t8wyhA==

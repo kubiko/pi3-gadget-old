@@ -1,0 +1,11 @@
+{
+  "type": "model",
+  "authority-id": "Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI",
+  "brand-id": "Cxmg9kqrPxzY17LJHVYcNlvtE0eI1MRI",
+  "series": "16",
+  "model": "pi3-unipi",
+  "architecture": "armhf",
+  "gadget": "pi3-unipi",
+  "kernel": "pi2-kernel",
+  "timestamp": "2017-02-07T15:53:39+00:00"
+}
